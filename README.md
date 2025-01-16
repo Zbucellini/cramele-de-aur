@@ -6,6 +6,7 @@ Site-ul este realizat folosind HTML5, CSS3 și JavaScript, tehnologii moderne ca
 În plus, site-ul include diverse funcționalități dinamice, care îmbunătățesc interactivitatea și oferă utilizatorilor o navigare fluidă și intuitivă. Totul este implementat în limba română, asigurând o comunicare clară și accesibilă pentru publicul țintă.
 
 📖 Posibile dezvoltări viitoare
+
 Adăugarea unei funcționalități de rezervare directă pentru degustări sau tururi ghidate.
 Integrarea unui sistem de feedback sau recenzii pentru utilizatori.
 Îmbunătățirea optimizării SEO pentru o mai bună vizibilitate pe motoarele de căutare.
