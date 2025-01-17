@@ -10,16 +10,19 @@ Furthermore, the website features various dynamic functionalities that enhance i
 
 
 📖 Possible Future Developments
+
 Adding a direct reservation feature for wine tastings or guided tours.
 Integrating a feedback or review system for users.
 Improving SEO optimization for better visibility on search engines.
 
 
 📬 Contact
+
 For questions or suggestions, feel free to use the contact form on the website or reach out to me via email. You can also connect through the social media links provided in the profile.
 
 
 🛠️ License
+
 This project is licensed under the MIT License. You are free to use, modify, and distribute this project under the terms of the license.
 
 
