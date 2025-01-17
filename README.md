@@ -1,28 +1,31 @@
-# cramele-de-aur
-Cramele de Aur este un site web creat ca proiect în anul II de facultate, dedicat unui producător de vin/cramă, care constă în realizarea părții de frontend a site-ului. Proiectul urmărește implementarea unei structuri strict ierarhice pe trei nivele, asigurându-se că întregul conținut este organizat clar și coerent.
+Cramele de Aur
 
-Site-ul este realizat folosind HTML5, CSS3 și JavaScript, tehnologii moderne care permit dezvoltarea unei interfețe atractive și funcționale. Pe lângă respectarea unei arhitecturi ierarhice solide, proiectul îndeplinește cerința esențială a unui design responsive, adaptându-se oricărui dispozitiv – de la desktop la mobil – pentru o experiență de utilizare optimă.
-
-În plus, site-ul include diverse funcționalități dinamice, care îmbunătățesc interactivitatea și oferă utilizatorilor o navigare fluidă și intuitivă. Totul este implementat în limba română, asigurând o comunicare clară și accesibilă pentru publicul țintă.
+"Cramele de Aur" is a website created as a second-year college project for a wine producer and winery. The project focuses on developing the frontend of the site with a strictly hierarchical three-level structure, ensuring all content is organized clearly and coherently.
 
 
-📖 Posibile dezvoltări viitoare
-
-Adăugarea unei funcționalități de rezervare directă pentru degustări sau tururi ghidate.
-Integrarea unui sistem de feedback sau recenzii pentru utilizatori.
-Îmbunătățirea optimizării SEO pentru o mai bună vizibilitate pe motoarele de căutare.
+The website is built using modern technologies, including HTML5, CSS3, and JavaScript, enabling the creation of an attractive and functional interface. In addition to adhering to a solid hierarchical architecture, the project incorporates responsive design, ensuring seamless adaptability across all devices—from desktops to mobile phones—for an optimal user experience.
 
 
-👤 Autor
+Furthermore, the website features various dynamic functionalities that enhance interactivity and provide smooth, intuitive navigation. The contact page includes a fully functional form, allowing users to send messages directly, which will generate an email notification to the website's administrator. All content is implemented in Romanian to ensure clear and accessible communication for the target audience.
 
-Zbuce Andrei-Daniel
+
+📖 Possible Future Developments
+Adding a direct reservation feature for wine tastings or guided tours.
+Integrating a feedback or review system for users.
+Improving SEO optimization for better visibility on search engines.
 
 
 📬 Contact
+For questions or suggestions, feel free to use the contact form on the website or reach out to me via email. You can also connect through the social media links provided in the profile.
 
-Pentru întrebări sau sugestii, mă poți contacta la adresa de email sau accesând linkurile din profil către rețelele sociale.
+
+🛠️ License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project under the terms of the license.
 
 
-🛠️ Licență
 
-Acest proiect este licențiat sub Licența MIT. Poți utiliza și modifica acest proiect conform termenilor licenței.
+
+
+
+
+
