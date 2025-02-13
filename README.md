@@ -43,7 +43,7 @@ This hierarchical organization not only enhances user navigation but also suppor
 - **Dynamic Menus & Animations:**  
   Smooth transitions and hover effects enhance user interaction, making navigation intuitive and visually pleasing.
 - **Real-Time Form Validation:**  
-  The contact page features a fully functional form that validates inputs in real time and sends email notifications using a dedicated API to the site administrator upon submission.
+  The contact page features a fully functional form that validates inputs in real time and sends email notifications using a dedicated [API](https://github.com/emailjs-com/emailjs-sdk) to the site administrator upon submission.
 
 ### Content Localization
 - **Language:**  
