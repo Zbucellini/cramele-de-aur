@@ -18,15 +18,26 @@ Key aspects include:
 
 ---
 
-## Site Architecture
+## Website Architecture
 
 The website's structure is organized into three distinct levels:
 
-1. **Main Sections:**  
-   These include the primary pages such as Home, About, Wines, Our Team, Experiences and Contact.
-   
-2. **Sub-Pages:**  
-    Main sections such as Wines and Experiences branches into sub-pages offering more detailed content. For example, the Wines section includes pages for different wine varieties.
+- **Level 1:**  
+  The main landing page serves as the primary gateway to the website.
+
+- **Level 2 (Primary Pages):**  
+  The core sections of the site include:
+  - About
+  - Wines
+  - Our Team
+  - Experiences
+  - Contact
+
+- **Level 3 (Sub-Pages):**  
+  Certain primary pages expand into more detailed sub-pages:
+  - The **Wines** section features dedicated pages for various wine varieties.
+  - The **Experiences** section offers sub-pages that detail the diverse activities and experiences available.
+
 
 
 This hierarchical organization not only enhances user navigation but also supports a clear content strategy that is easy to maintain and scale.
